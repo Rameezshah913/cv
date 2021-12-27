@@ -1,0 +1,142 @@
+body{
+    margin: 0%;
+    background-color: #87CEFA;
+    text-align: center;
+}
+.mainbody{
+
+    text-align: center;
+   
+}
+.topcloud{
+position: absolute;
+margin-left: 30px;
+
+}
+h1{
+    margin-top: 40px;
+    
+    color:burlywood;
+}
+.mypic{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    text-align: center;
+}
+.bottomcloud{
+position: absolute;
+left:800px;
+top:40px;
+
+}
+.extracloud{
+    position: absolute;
+    right:200px;
+    top:200px;
+    
+    }
+
+.midsection{
+    margin:auto;
+    width: 400px;
+    
+
+    }
+
+.computer{
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.chillies{
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+}
+
+.lowersection{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    margin-bottom: 50px;
+
+    }
+
+.lowersectiontwo{
+    margin:auto;
+    width: 400px;
+
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .footer{
+      background-color: aqua;
+      height: 60px;
+      padding-top: 30px;
+      word-spacing: 20px;
+      font-size: 15px;
+  }
+  a{
+      
+      text-decoration: none;
+  }
+  a:hover{
+      color: antiquewhite;
+  }
+  p{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h1{
+    font-family: 'Licorice', cursive;
+    color: brown;
+    font-size: 70px;
+
+  }
+  h2, h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+
+  }
+  .contactsection{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+  }
+  hr{
+      border-style: dotted;
+      border-top: none;
+      border-width: 5px;
+      width: 50px;
+      border-color: darkgrey;
+  }
